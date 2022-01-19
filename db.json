@@ -14,7 +14,9 @@
       "bladeLength":15,
       "material":"iron",
       "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYq8GjjCXYY0B-ZOgpJDilz_pQ2-fnXymVfQ&usqp=CAU"
-    },{
+    },
+    undefined,
+    {
       "id": 3,
       "title": "Knife3",
       "price":300,
