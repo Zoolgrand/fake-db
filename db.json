@@ -2,42 +2,42 @@
   "knives": [
     {
       "id": 1,
-      "title": "Knife1",
+      "title": "Zeus",
       "price":100,
       "bladeLength":10,
       "material":"Wood",
       "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5pIBFRL17bLGX0a4WrpGBORm5uovOGeuH6Q&usqp=CAU"
     },{
       "id": 2,
-      "title": "Knife2",
+      "title": "Apolon",
       "price":100,
       "bladeLength":15,
       "material":"iron",
       "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYq8GjjCXYY0B-ZOgpJDilz_pQ2-fnXymVfQ&usqp=CAU"
     },{
       "id": 3,
-      "title": "Knife3",
+      "title": "Gefest",
       "price":300,
       "bladeLength":15,
       "material":"Wood",
       "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKhw7thyNzF-Im6kOYj0hvprAgPZyexigkUQ&usqp=CAU"
     },{
       "id": 4,
-      "title": "Knife4",
+      "title": "Poseidon",
       "price":150,
       "bladeLength":10,
       "material":"iron",
       "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkeMhvap5qfzN0o4ManLuwackbxhFfWIlYEg&usqp=CAU"
     },{
       "id": 5,
-      "title": "Knife5",
+      "title": "Dionis",
       "price":200,
       "bladeLength":10,
       "material":"Wood",
       "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVl7BlvgAJ71YjD-gA4TF5lCnocqMy-YdA9g&usqp=CAU"
     },{
       "id": 6,
-      "title": "Knife6",
+      "title": "Germes",
       "price":170,
       "bladeLength":15,
       "material":"iron",
